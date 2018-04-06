@@ -1,6 +1,6 @@
 # reServe
 
-reServe is full stack web software that connects grocery and pantry. It is simple access to the grocery and pantry to log their unused or donatable items to pantry. Pantry is allowed to reserve those item for their needs. 
+reServe is a full stack web software that connects grocery and pantry (foodbanks, shelters, charitable organizations). It is simple access to the grocery to log their unused or donatable items to pantry. Pantry can reserve those item for their needs.
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ to run in browser - use the heroku link
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What do you need to install the software and how to install them
 
 ```
 * visual studio code/sublime(to access the code)
@@ -24,7 +24,7 @@ What things you need to install the software and how to install them
 1. Fork this file or clone this site to your computer
 
 ```
-2. In your terminal/bash type NPM install
+2. In your terminal/bash type 'npm install'
 
 ```
 
@@ -36,7 +36,8 @@ What things you need to install the software and how to install them
 5. run your file through terminal/bash by node server.js
 
 *to run the program in the browser
-1. Go in to the heroku link 
+1. Go in to the heroku link:
+https://stark-beyond-62102.herokuapp.com
 
 
 ## Running the program
@@ -45,16 +46,16 @@ What things you need to install the software and how to install them
  This page will provide access to either log in, sign in page.
 
 *Signup page
-This page will allow user to sign up as either grocery or pantry and allow to input their username, password and their password
+This page will allow user to sign up as either grocery or pantry and input their username and password
 
 *Login page
-This page will allow user to sign in either as grocery or pantry using the log in information depends on the usertype. 
+This page will allow user to sign in either as grocery or pantry
 
 *Grocery page
 This page allows to enter their unused/donatable items to pantry by logging in items quantity and expiration date
 
 *Pantry page
-This page allows for pantry to resrve the grocery items 
+This page allows for pantry to reserve the grocery items  and clear them from the page when picked up
 
 
 ## Deployment
@@ -66,13 +67,15 @@ We used github to deploy the code and used heroku to deploy the website
 * HTML
 * CSS
 * Javascript
-* MYSQL
-* ajax
+* jQuery
+* Passport.js
+* MySQL
+* Sequelize
+* Ajax
 * Bootstrap
-* nodeJs
-* expressJs
-* github
-* heroku
+* Node.js
+* Express.js
+* Heroku
 
 
 
@@ -80,15 +83,15 @@ We used github to deploy the code and used heroku to deploy the website
 
 ## Authors
 
-* **Daniel** - *Initial work* (https://github.com/dansim76)
-
 * **Ivo**
 
 * **Stephnie**
 
-* **Joe**
-
 * **Jina**
+
+* **Daniel**
+
+* **Joe**
 
 
 
