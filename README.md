@@ -42,19 +42,19 @@ https://stark-beyond-62102.herokuapp.com
 
 ## Running the program
 
-*Home page
+*Home page* -
  This page will provide access to either log in, sign in page.
 
-*Signup page
+*Signup page* -
 This page will allow user to sign up as either grocery or pantry and input their username and password
 
-*Login page
+*Login page* -
 This page will allow user to sign in either as grocery or pantry
 
-*Grocery page
+*Grocery page* -
 This page allows to enter their unused/donatable items to pantry by logging in items quantity and expiration date
 
-*Pantry page
+*Pantry page* - 
 This page allows for pantry to reserve the grocery items  and clear them from the page when picked up
 
 
